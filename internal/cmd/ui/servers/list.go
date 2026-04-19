@@ -8,7 +8,7 @@ import (
 	"slices"
 	"strings"
 
-	domainservers "github.com/joalvarez/ui-test/internal/servers"
+	domainservers "github.com/joalvarez/toolkit/internal/servers"
 )
 
 var listServers = domainservers.List

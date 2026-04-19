@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	uiservers "github.com/joalvarez/ui-test/internal/cmd/ui/servers"
+	uiservers "github.com/joalvarez/toolkit/internal/cmd/ui/servers"
 )
 
 func main() {

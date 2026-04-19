@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/joalvarez/ui-test/internal/ui"
+	"github.com/joalvarez/toolkit/internal/ui"
 )
 
 func main() {

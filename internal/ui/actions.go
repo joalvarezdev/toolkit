@@ -5,8 +5,8 @@ import (
 	"context"
 
 	tea "github.com/charmbracelet/bubbletea"
-	uiservers "github.com/joalvarez/ui-test/internal/cmd/ui/servers"
-	"github.com/joalvarez/ui-test/internal/servers"
+	uiservers "github.com/joalvarez/toolkit/internal/cmd/ui/servers"
+	"github.com/joalvarez/toolkit/internal/servers"
 )
 
 func (m *Model) runAction(action string) tea.Cmd {
