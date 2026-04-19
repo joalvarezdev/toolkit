@@ -24,7 +24,7 @@ type ServerJSON struct {
 
 func newDataSource() dataSource {
 	return dataSource{
-		Path: "~/.config/ui-test/servers/servers.json",
+		Path: "~/.config/toolkit/servers/servers.json",
 	}
 }
 

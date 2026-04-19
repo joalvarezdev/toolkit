@@ -4,7 +4,7 @@ package servers
 import (
 	"context"
 
-	domainservers "github.com/joalvarez/ui-test/internal/servers"
+	domainservers "github.com/joalvarez/toolkit/internal/servers"
 )
 
 func Connect(ctx context.Context, name string) error {

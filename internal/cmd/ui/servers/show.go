@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	domainservers "github.com/joalvarez/ui-test/internal/servers"
+	domainservers "github.com/joalvarez/toolkit/internal/servers"
 )
 
 var showServer = domainservers.FindByName

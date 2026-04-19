@@ -7,7 +7,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/joalvarez/ui-test/internal/servers"
+	"github.com/joalvarez/toolkit/internal/servers"
 )
 
 type navigationState struct {

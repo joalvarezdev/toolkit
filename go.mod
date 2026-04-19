@@ -1,4 +1,4 @@
-module github.com/joalvarez/ui-test
+module github.com/joalvarez/toolkit
 
 go 1.24.2
 
